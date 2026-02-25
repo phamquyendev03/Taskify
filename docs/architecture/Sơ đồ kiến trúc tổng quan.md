@@ -6,7 +6,7 @@ C4Context
     Person(manager, "Quản lý dự án", "Tạo bảng, quản lý thành viên team và theo dõi báo cáo tiến độ.")
     Person(member, "Thành viên", "Cập nhật thẻ công việc, quản lý task cá nhân và cộng tác.")
     
-    System(trello_system, "Hệ thống Trello (Local)", "Nền tảng quản lý công việc Kanban.")
+    System(trello_system, "Hệ thống Trello", "Nền tảng quản lý công việc Kanban.")
     
     System_Ext(auth_service, "Dịch vụ Xác thực", "Xác thực người dùng qua OAuth2.")
     System_Ext(local_storage, "Hệ thống Lưu trữ Tệp", "Lưu trữ tệp đính kèm trực tiếp trên máy host qua Docker Bind Mount.")
