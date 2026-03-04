@@ -4,7 +4,7 @@
 Accepted
 
 ## Bối cảnh
-Hệ thống Trello Clone (quản lý công việc) có các thực thể dữ liệu liên kết rất chặt chẽ với nhau. Với kiến trúc Backend là Java (Spring Boot) và Frontend là React, chúng tôi cần một hệ quản trị cơ sở dữ liệu phù hợp để lưu trữ, đảm bảo tính toàn vẹn dữ liệu và dễ dàng truy vấn các mối quan hệ này trong thời gian phát triển 6 tuần của team 4 người.
+Hệ thống Trello Clone (quản lý công việc) có các thực thể dữ liệu liên kết rất chặt chẽ với nhau. Với kiến trúc Backend là Java (Spring Boot) và Frontend là React, chúng tôi cần một hệ quản trị cơ sở dữ liệu phù hợp để lưu trữ, đảm bảo tính toàn vẹn dữ liệu và dễ dàng truy vấn các mối quan hệ này trong thời gian phát triển 6 tuần của team 3 người.
 
 ## Quyết định
 Sử dụng Cơ sở dữ liệu quan hệ (RDBMS) - cụ thể là MySQL.
